@@ -1,0 +1,12 @@
+{
+  "roles": [
+    {
+    "id": 1,
+    "nome": "sabadao",
+    "endereco": "P Biagi",
+    "marked_day":"Sabado",
+    "foto": "https://rollingstone.uol.com.br/media/uploads/pepe-queixo.jpg"
+
+    }
+  ]
+}
